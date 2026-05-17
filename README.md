@@ -1,3 +1,4 @@
+HEAD
 Kelompok AyamJago.dev
 kami adalah kelompok pembuatan project web pada mata kuliah pemograman fullstuck dimana misi kami menyelesaikan project yang telah kami rancang.
 
@@ -70,3 +71,6 @@ USERS ||--o{ BOOKINGS : "makes"
 VEHICLES ||--o{ BOOKINGS : "rented_in"
 BOOKINGS ||--o{ PAYMENTS : "has"
 ```
+
+# AyamJagoDev
+5bf468689949a1dd8cad429a687047d12d211e45
